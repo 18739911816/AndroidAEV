@@ -62,6 +62,8 @@ Android AE
 
 2016-10-09 链接：http://pan.baidu.com/s/1kV2jxqv 密码：ew2g svg矢量图打造图形框架 
 
+2016-10-10链接：http://pan.baidu.com/s/1i539yvF 密码：udg1 个性化滑动指示器 
+
 2016-10-11 链接：http://pan.baidu.com/s/1dFFmX4P 密码：7ed1 安卓抢红包
  
 2016-10-12 链接：http://pan.baidu.com/s/1miDCRZ6 密码：d6lb MaterialDesign动画设计 
