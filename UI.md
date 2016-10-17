@@ -1,9 +1,7 @@
-Lsn1_MaterialDesign_概述_样式_兼容控件使用(2016-6-1)
-链接：http://pan.baidu.com/s/1hsNPEYg 密码：5uca
+Lsn1_MaterialDesign_概述_样式_兼容控件使用(2016-6-1) 链接：http://pan.baidu.com/s/1hsNPEYg 密码：5uca
 
 
-Lsn2_MaterialDesign_兼容新控件_RecyclerView简单使用(2016-6-3)
-链接：http://pan.baidu.com/s/1qXLt3KK 密码：jf8r
+Lsn2_MaterialDesign_兼容新控件_RecyclerView简单使用(2016-6-3) 链接：http://pan.baidu.com/s/1qXLt3KK 密码：jf8r
 
 
 Lsn3_MaterialDesign_LayoutInflater源码分析_LinearLayoutCompat源码分析_RecyclerView简单封装(2016-6-6)
