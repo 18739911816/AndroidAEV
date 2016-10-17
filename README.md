@@ -69,3 +69,9 @@ Android AE
 2016-10-12 链接：http://pan.baidu.com/s/1miDCRZ6 密码：d6lb MaterialDesign动画设计 
 
 2016-10-15 链接：http://pan.baidu.com/s/1geY5EwV 密码：3ug5  支付宝咻一咻
+
+2016-10-16 链接：http://pan.baidu.com/s/1gfoeJ0f 密码：xfhg  直播火爆_FFmpeg视频处理技术 
+
+ 
+
+
