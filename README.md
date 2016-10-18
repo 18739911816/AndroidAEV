@@ -72,6 +72,6 @@ Android AE
 
 2016-10-16 链接：http://pan.baidu.com/s/1gfoeJ0f 密码：xfhg  直播火爆_FFmpeg视频处理技术 
 
- 
+2016-10-17 链接：http://pan.baidu.com/s/1i5oaKAD 密码：37wr  自定义阻尼动画指示器 Ricky 
 
 
