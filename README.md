@@ -76,4 +76,5 @@ Android AE
 
 2016-10-17 链接：http://pan.baidu.com/s/1i5oaKAD 密码：37wr  自定义阻尼动画指示器 Ricky 
 
+2016-10-18 链接：http://pan.baidu.com/s/1pLPcuUn 密码：0kly  纠正谷歌犯下的错——图片终极压缩 David
 
