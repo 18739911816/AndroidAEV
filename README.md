@@ -78,3 +78,4 @@ Android AE
 
 2016-10-18 链接：http://pan.baidu.com/s/1pLPcuUn 密码：0kly  纠正谷歌犯下的错——图片终极压缩 David
 
+2016-10-20 链接：http://pan.baidu.com/s/1jIoEQwA 密码：mooo  自定义动画框架 Ricky
