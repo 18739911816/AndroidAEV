@@ -88,4 +88,6 @@ Android AE
 
 2016-10-21 链接：http://pan.baidu.com/s/1qYPGzTy 密码：ijlb  ndk图片处理 Sindy
 
-2016-10-25 链接：http://pan.baidu.com/s/1cwwWtK 密码：rbnb
+2016-10-25 链接：http://pan.baidu.com/s/1cwwWtK 密码：rbnb   MVP架构设计与性能优化
+
+
