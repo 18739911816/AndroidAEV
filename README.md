@@ -64,6 +64,10 @@ Android AE
 
 10_25_Lsn11 链接：http://pan.baidu.com/s/1dFC5Rnr 密码：pmvz
 
+10_27_Lsn12 链接：http://pan.baidu.com/s/1mhN6M2c 密码：gmud
+
+10_29_Lsn13 链接：http://pan.baidu.com/s/1boVWID5 密码：z9pp
+
 ===========================================================
 公开课
 2016-09_30 链接: https://pan.baidu.com/s/1eRW5dfW 密码: fsvs
