@@ -40,7 +40,7 @@ Android AE
 9.2_Lsn16_链接：http://pan.baidu.com/s/1hsPUoi4 密码：mikz
 
 ===========================================================
-数据结构和算法
+一、数据结构和算法
 
 09_24_Lsn1链接：http://pan.baidu.com/s/1nvHDEsh 密码：q4os
 
@@ -69,8 +69,15 @@ Android AE
 10_29_Lsn13 链接：http://pan.baidu.com/s/1boVWID5 密码：z9pp
 
 11_01_Lsn14 链接：http://pan.baidu.com/s/1cIIcfs 密码：gz5s
+===========================================================
+二、性能优化
+
+11_02Lsn1_内存泄露 链接：http://pan.baidu.com/s/1i4LBueD 密码：7nnd
+
+
 
 ===========================================================
+
 公开课
 2016-09_30 链接: https://pan.baidu.com/s/1eRW5dfW 密码: fsvs
 
@@ -97,3 +104,5 @@ Android AE
 2016-10-25 链接：http://pan.baidu.com/s/1cwwWtK 密码：rbnb   MVP架构设计与性能优化
 
 2016-10-31 链接: http://pan.baidu.com/s/1i4SwKtf 密码: pj8g  安卓顶尖技术之安卓热修复 Danny
+
+
