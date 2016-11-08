@@ -72,9 +72,11 @@ Android AE
 ===========================================================
 二、性能优化
 
-2016-11_02Lsn1_内存泄露 链接：http://pan.baidu.com/s/1i4LBueD 密码：7nnd
+2016-11_02 Lsn1_内存泄露 链接：http://pan.baidu.com/s/1i4LBueD 密码：7nnd
 
 2016-11-04 Lsn2_内存泄露分析及工具使用_链接：http://pan.baidu.com/s/1gfBMtqV 密码：znnh
+
+2016-11-07 Lsn3_常见内存泄露分析_链接：http://pan.baidu.com/s/1eSDQzDK 密码：0i0g
 
 ===========================================================
 
