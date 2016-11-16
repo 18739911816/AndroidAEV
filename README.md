@@ -90,6 +90,10 @@ Lsn5_安卓Binder-2016-11-12      Danny老师
 
 Lsn5_UI卡顿分析之内存抖动和计算性能优化_2016-11-14
 链接：http://pan.baidu.com/s/1cDsWCu 密码：kjce
+
+Lsn6_UI渲染性能优化
+链接：http://pan.baidu.com/s/1jIhUDs6 密码：dt5e
+
 ===========================================================
 
 公开课
