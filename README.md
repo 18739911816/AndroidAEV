@@ -99,6 +99,9 @@ Lsn7_电量优化_2016-11-21
 
 Lsn8_电量优化_2016-11-24
 链接：http://pan.baidu.com/s/1gfOE96j 密码：cjmj
+
+Lsn9_电量优化_wakelock和Jobscheduler_2016-11-25
+链接：http://pan.baidu.com/s/1mitwyus 密码：u9x1
 ===========================================================
 
 公开课
