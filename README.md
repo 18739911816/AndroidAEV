@@ -106,6 +106,9 @@ Lsn9_电量优化_wakelock和Jobscheduler_2016-11-25
 Lsn10_window底层原理与系统架构 Danny补课
 链接：http://pan.baidu.com/s/1sl1ZG3j 密码：3qj8
 
+Lsn10_网络优化_缓存优化_2016-11-28
+链接：http://pan.baidu.com/s/1pL8j2eJ 密码：g892
+
 ===========================================================
 
 公开课
