@@ -113,8 +113,10 @@ Lsn11_Bitmap内存管理及优化_2016-11-30
 链接：http://pan.baidu.com/s/1slGmZ5F 密码：4bfb
 
 Lsn12_图片压缩性能优化_2016-12-02
-
 链接：http://pan.baidu.com/s/1eSkL2vg 密码：8eyv
+
+Lsn13_数据传输效率优化_2016-12-06
+链接：http://pan.baidu.com/s/1dFFVWpN 密码：iwee
 
 ===========================================================
 
