@@ -139,6 +139,11 @@ Lsn17_隐形内存杀手Service调优_2016-12-14
 2016-12-16_Lsn1_UML
 链接：http://pan.baidu.com/s/1kVPT9ND 密码：4oep
 
+Lsn2_原型单例模式_2016-12-19
+链接：http://pan.baidu.com/s/1o8ydxtK 密码：ahuf
+
+Android源码
+链接: https://pan.baidu.com/s/1kUQZ44v 密码: 3zyx
 
 ===========================================================
 
