@@ -151,6 +151,10 @@ Android源码
 Lsn3_AOP面向切面设计编程_2016-12-21
 链接：http://pan.baidu.com/s/1hsmeyzi 密码：pdyn
 
+Lsn4_责任链模式_2016-12-23
+链接：http://pan.baidu.com/s/1skNzG2D 密码：qgi9
+
+
 ===========================================================
 
 公开课
