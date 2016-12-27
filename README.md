@@ -39,7 +39,7 @@ Android AE
 
 9.2_Lsn16_链接：http://pan.baidu.com/s/1hsPUoi4 密码：mikz
 
-
+七月FFMpeg
 
 9.5_Lsn17_链接：http://pan.baidu.com/s/1hrCgX4S 密码：0q9t
 
@@ -180,7 +180,8 @@ Lsn3_AOP面向切面设计编程_2016-12-21
 Lsn4_责任链模式_2016-12-23
 链接：http://pan.baidu.com/s/1skNzG2D 密码：qgi9
 
-
+Lsn5_责任链模式和命令模式_2016-12-26
+链接：http://pan.baidu.com/s/1o8HGAFK 密码：wawg
 ===========================================================
 
 公开课
