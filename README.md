@@ -263,6 +263,35 @@ Lsn19_图片加载框架设计解析_2017-2-10
 
 Lsn20_Glide源码分析和RXJava_2017-2-13
 链接：http://pan.baidu.com/s/1c2DZIj2 密码：l4j9
+
+
+Lsn21_RXJava事件变换_2017-2-15
+链接：http://pan.baidu.com/s/1i4JFdGT 密码：xejn
+
+Lsn22_RXJava事件变换（重讲）_2017-2-17
+链接：http://pan.baidu.com/s/1nuRE8it 密码：to2f
+
+Lsn23_RXJava线程调度_2017-2-20
+链接：http://pan.baidu.com/s/1nuCfD6h 密码：41to
+
+Lsn24_泛型及其JSON解析框架_2017-2-22
+链接：http://pan.baidu.com/s/1dE5A4vf 密码：9cqv
+
+Lsn25_Model转JSON和IOC框架_2017-2-24
+链接：http://pan.baidu.com/s/1c2Gcnks 密码：n58c
+
+Lsn26_IOC架构设计之事件注入_2017-2-27
+链接：http://pan.baidu.com/s/1geKzM4V 密码：y927
+
+Lsn27_手写ButterKnife注入式框架_2017-3-1
+链接：http://pan.baidu.com/s/1qXJ1BHy 密码：7vyy
+
+Lsn28_MVP架构设计_2017-3-3
+链接：http://pan.baidu.com/s/1i4LHRil 密码：ni2h
+
+Lsn29_MVVM架构设计_2017-3-6
+链接：http://pan.baidu.com/s/1ckYJ0M 密码：4fbz
+
 ===========================================================
 面试题
 Lsn1_2017-2-11
@@ -277,6 +306,14 @@ Lsn3_2017-2-14
 Lsn4_2017-2-16
 链接：http://pan.baidu.com/s/1kUAN8YN 密码：a1a3
 
+Lsn5_2017-2-18
+链接：http://pan.baidu.com/s/1cai6C2 密码：zny9
+
+Lsn6_2017-2-21
+链接：http://pan.baidu.com/s/1mi0SCx6 密码：54i6
+
+Lsn7_2017-2-25
+链接：http://pan.baidu.com/s/1qY2gFkK 密码：bmb1
 ===========================================================
 
 公开课
