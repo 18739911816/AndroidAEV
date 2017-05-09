@@ -297,6 +297,11 @@ Lsn29_MVVM架构设计_2017-3-6
 Lsn1_UI绘制流程_源码分析-2017-5-3
 链接：http://pan.baidu.com/s/1qY4Slpa 密码：6ihd
 
+Lsn2_UI绘制流程_流式布局_2017-5-5
+链接：http://pan.baidu.com/s/1o78dYbg 密码：ohwt
+
+Lsn3_Paint画笔基本使用_2017-5-8
+链接：http://pan.baidu.com/s/1ge9ErRl 密码：2zlr
 ===========================================================
 面试题
 Lsn1_2017-2-11
