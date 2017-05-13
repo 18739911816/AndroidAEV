@@ -366,6 +366,11 @@ Lsn2_UI绘制流程_流式布局_2017-5-5
 Lsn3_Paint画笔基本使用_2017-5-8
 链接：http://pan.baidu.com/s/1ge9ErRl 密码：2zlr
 
+Lsn4_Paint_高级渲染_2017-5-10
+链接：http://pan.baidu.com/s/1hsIagDY 密码：zt8u
+
+Lsn5_Paint_Xfermode_2017-5-12
+链接：http://pan.baidu.com/s/1jHNfDjw 密码：ljeo
 ===========================================================
 面试题
 Lsn1_2017-2-11
