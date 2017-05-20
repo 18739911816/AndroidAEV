@@ -371,6 +371,18 @@ Lsn4_Paint_高级渲染_2017-5-10
 
 Lsn5_Paint_Xfermode_2017-5-12
 链接：http://pan.baidu.com/s/1jHNfDjw 密码：ljeo
+
+Lsn6_Paint_滤镜_2017-5-15
+链接：http://pan.baidu.com/s/1o819jGe 密码：uies
+
+Lsn7_Canvas使用_2017-5-17
+链接：http://pan.baidu.com/s/1bpcnh6Z 密码：v0af
+
+Lsn8_Canvas实战案例_2017-5-19
+链接：http://pan.baidu.com/s/1i44lfil 密码：g301
+
+
+
 ===========================================================
 面试题
 Lsn1_2017-2-11
