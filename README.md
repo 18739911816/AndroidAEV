@@ -381,7 +381,14 @@ Lsn7_Canvas使用_2017-5-17
 Lsn8_Canvas实战案例_2017-5-19
 链接：http://pan.baidu.com/s/1i44lfil 密码：g301
 
+Lsn9_Path_贝塞尔曲线_2017-5-22
+链接：http://pan.baidu.com/s/1o8ylJhK 密码：fzoz
 
+Lsn10_Path_PathMeasure_2017-5-24
+链接：http://pan.baidu.com/s/1gfMgFuF 密码：pews
+
+Lsn11_SVG_VectorDrawable_2017-5-26
+链接：http://pan.baidu.com/s/1bo9h1CF 密码：1pv1
 
 ===========================================================
 面试题
