@@ -390,6 +390,13 @@ Lsn10_Path_PathMeasure_2017-5-24
 Lsn11_SVG_VectorDrawable_2017-5-26
 链接：http://pan.baidu.com/s/1bo9h1CF 密码：1pv1
 
+Lsn12_svg（可交互式中国地图）_2017-5-31
+链接：http://pan.baidu.com/s/1geSCu6v 密码：pjvc
+
+Lsn13_事件分发笔记_2017-6-2
+链接：http://pan.baidu.com/s/1o84rQLO 密码：3ons
+
+
 ===========================================================
 面试题
 Lsn1_2017-2-11
