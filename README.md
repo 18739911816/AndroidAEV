@@ -397,6 +397,23 @@ Lsn13_事件分发笔记_2017-6-2
 链接：http://pan.baidu.com/s/1o84rQLO 密码：3ons
 
 
+Lsn14_ListView复用思想打造列表控件_2017-6-5
+链接：http://pan.baidu.com/s/1jIkNyvW 密码：b6im
+
+Lsn15_ListView复用思想打造列表控件(下)_2017-6-7
+链接：http://pan.baidu.com/s/1i46nYAT 密码：tiri
+
+Lsn16_属性动画_2017-6-9
+链接：http://pan.baidu.com/s/1dFov9rN 密码：p9ca
+
+Lsn17_属性动画案例+源码解析_2017-6-12
+链接：http://pan.baidu.com/s/1kU6kiqz 密码：gpze
+
+Lsn18_属性动画案例_2017-6-14
+链接：http://pan.baidu.com/s/1i4LNzRB 密码：tmx7
+
+Lsn19_自定义动画框架_2017-6-16
+链接：http://pan.baidu.com/s/1mixBcXM 密码：31lh
 ===========================================================
 面试题
 Lsn1_2017-2-11
