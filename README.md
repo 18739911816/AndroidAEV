@@ -414,6 +414,15 @@ Lsn18_属性动画案例_2017-6-14
 
 Lsn19_自定义动画框架_2017-6-16
 链接：http://pan.baidu.com/s/1mixBcXM 密码：31lh
+
+Lsn20_3D翻转效果_2017-6-19
+链接：http://pan.baidu.com/s/1bo7MKf9 密码：uqjf
+
+Lsn21_MaterialDesign_2017-6-21
+链接：http://pan.baidu.com/s/1o8hsoBK 密码：mhqy
+
+Lsn22_RecyclerView常用封装、修复RecyclerView嵌套滚动问题及优化_2017-6-23
+链接：http://pan.baidu.com/s/1bpeWXTd 密码：ompv
 ===========================================================
 Kotlin
 Lsn1_kotlin_2017-6-6
