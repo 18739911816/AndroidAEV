@@ -423,6 +423,19 @@ Lsn21_MaterialDesign_2017-6-21
 
 Lsn22_RecyclerView常用封装、修复RecyclerView嵌套滚动问题及优化_2017-6-23
 链接：http://pan.baidu.com/s/1bpeWXTd 密码：ompv
+
+
+Lsn23_2Camera3D（周日补课内容）_2017-6-25
+链接：http://pan.baidu.com/s/1c1BONSk 密码：lm02
+
+Lsn23_ItemTouchHelper_2017-6-26
+链接：http://pan.baidu.com/s/1o76KJN0 密码：dtm4
+
+Lsn24_基于源码实现案例-层叠卡片滑动特效_2017-6-28
+链接：http://pan.baidu.com/s/1slI0ny1 密码：bkeb
+
+Lsn25_DrawerLayout详解及其打造炫酷侧滑菜单_2017-6-30
+链接：http://pan.baidu.com/s/1kUZrpMR 密码：dfuj
 ===========================================================
 Kotlin
 Lsn1_kotlin_2017-6-6
