@@ -446,6 +446,15 @@ Lsn27_NavigationView原理分析，ToolBar 与 SearchView详解_2017-7-5
 Lsn28_Tablayout详解和Palatte应用_2017-7-7
 链接：http://pan.baidu.com/s/1o7F8LV8 密码：9m7n
 
+Lsn29_沉浸式设计_CardView源码分析和兼容原理_2017-7-10
+链接：http://pan.baidu.com/s/1jIFXsgA 密码：o7kk
+
+Lsn30_AppBarLayout和CollapsingToolbarLayout详解_2017-7-12
+链接：http://pan.baidu.com/s/1nu8j621 密码：aquc
+
+Lsn31_NestedScrolling机制核心原理讲解以及手写CoordinatorLayout和Behavior_2017-7-14
+链接：http://pan.baidu.com/s/1qYlZfJI 密码：g9f2
+
 ===========================================================
 Kotlin
 Lsn1_kotlin_2017-6-6
