@@ -466,6 +466,18 @@ Lsn5_kotlin_2017-6-13
 Lsn6_kotlin_2017-6-15
 链接：http://pan.baidu.com/s/1c11EJNM 密码：2h0t
 
+Lsn7_kotlin直播课_2017-6-17
+链接：http://pan.baidu.com/s/1o85E942 密码：bjsu
+
+Lsn8_kotlin直播课_2017-6-20
+链接：http://pan.baidu.com/s/1qYg8kkG 密码：e1bs
+
+Lsn9_kotlin直播课_2017-6-22
+链接：http://pan.baidu.com/s/1nvjwoqt 密码：p4fo
+
+Lsn10_kotlin直播课_2017-6-24
+链接：https://pan.baidu.com/s/1b9kXky 密码：vjuw
+
 ===========================================================
 面试题
 Lsn1_2017-2-11
