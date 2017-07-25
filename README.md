@@ -455,6 +455,20 @@ Lsn30_AppBarLayout和CollapsingToolbarLayout详解_2017-7-12
 Lsn31_NestedScrolling机制核心原理讲解以及手写CoordinatorLayout和Behavior_2017-7-14
 链接：http://pan.baidu.com/s/1qYlZfJI 密码：g9f2
 
+
+Lsn32_NestedScrolling机制源码详解和MaterialDesign动画_2017-7-17
+链接：http://pan.baidu.com/s/1pL9bSKz 密码：s4vr
+
+Lsn33_自定义控件_2017-7-19
+链接：http://pan.baidu.com/s/1dFKRKQl 密码：27g2
+
+Lsn34_使用jbox引擎库打造自定义控件_2017-7-21
+链接：http://pan.baidu.com/s/1sltzclv 密码：8r21
+===========================================================
+NDK
+Lsn1_C语言基本类型、指针_2017-7-24
+链接：http://pan.baidu.com/s/1mhXoIBA 密码：i3lq
+
 ===========================================================
 Kotlin
 Lsn1_kotlin_2017-6-6
