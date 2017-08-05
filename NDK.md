@@ -9,3 +9,9 @@ Lsn3_字符串使用，函数指针_内存分配_2017-7-28
 
 Lsn4_结构体_结构体指针，tyepdef_union_enum_2017-7-31
 链接：http://pan.baidu.com/s/1gfzjGo7 密码：2vv4
+
+Lsn5_C语言文件操作 和 预编译命令_2017-8-2
+链接：http://pan.baidu.com/s/1dFMo2QX 密码：8wzq
+
+Lsn6_jni函数调用流程，JNI理解和基本数据类型_2017-8-4
+链接：http://pan.baidu.com/s/1sl7DbFf 密码：tr8f
