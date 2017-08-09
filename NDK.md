@@ -15,3 +15,7 @@ Lsn5_C语言文件操作 和 预编译命令_2017-8-2
 
 Lsn6_jni函数调用流程，JNI理解和基本数据类型_2017-8-4
 链接：http://pan.baidu.com/s/1sl7DbFf 密码：tr8f
+
+Lsn7_JNI访问Java中各方法_2017-8-7
+链接：http://pan.baidu.com/s/1c19P12S 密码：d28c
+
