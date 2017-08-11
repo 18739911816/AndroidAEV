@@ -19,3 +19,5 @@ Lsn6_jni函数调用流程，JNI理解和基本数据类型_2017-8-4
 Lsn7_JNI访问Java中各方法_2017-8-7
 链接：http://pan.baidu.com/s/1c19P12S 密码：d28c
 
+Lsn8_JNI访问数组、引用、异常处理、缓存策略_2017-8-9
+链接：http://pan.baidu.com/s/1i4O8w5Z 密码：ffkj
