@@ -21,3 +21,6 @@ Lsn7_JNI访问Java中各方法_2017-8-7
 
 Lsn8_JNI访问数组、引用、异常处理、缓存策略_2017-8-9
 链接：http://pan.baidu.com/s/1i4O8w5Z 密码：ffkj
+
+Lsn9_JNI源码分析_2017-8-11
+链接：http://pan.baidu.com/s/1kUPk3PX 密码：2yrn
