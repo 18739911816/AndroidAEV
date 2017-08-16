@@ -24,3 +24,9 @@ Lsn8_JNI访问数组、引用、异常处理、缓存策略_2017-8-9
 
 Lsn9_JNI源码分析_2017-8-11
 链接：http://pan.baidu.com/s/1kUPk3PX 密码：2yrn
+
+Lsn10_NDK开发流程_文件的拆分与合并_JNI线程_2017-8-14
+链接：http://pan.baidu.com/s/1dF0AB2h 密码：qkww
+
+Lsn11_增量更新（上）_2017-8-16
+链接：http://pan.baidu.com/s/1nvJrpCd 密码：0f90
