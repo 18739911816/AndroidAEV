@@ -30,3 +30,6 @@ Lsn10_NDK开发流程_文件的拆分与合并_JNI线程_2017-8-14
 
 Lsn11_增量更新（上）_2017-8-16
 链接：http://pan.baidu.com/s/1nvJrpCd 密码：0f90
+
+Lsn12_增量更新（下），C++基础_2017-8-18
+链接：http://pan.baidu.com/s/1c1YmC72 密码：n7gf
