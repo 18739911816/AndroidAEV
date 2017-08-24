@@ -36,3 +36,7 @@ Lsn12_增量更新（下），C++基础_2017-8-18
 
 Lsn13_C++构造函数、继承、虚函数、多态_2017-8-21
 链接：http://pan.baidu.com/s/1mhCrJWs 密码：bn02
+
+Lsn14_C++基础（友元，模板方法，模板类，类型转换）、Linux基础（Shell命令，用户权限管理）_2017-8-23
+链接：http://pan.baidu.com/s/1kUEvQ8B 密码：xefx
+
