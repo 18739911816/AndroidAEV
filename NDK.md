@@ -40,3 +40,10 @@ Lsn13_C++构造函数、继承、虚函数、多态_2017-8-21
 Lsn14_C++基础（友元，模板方法，模板类，类型转换）、Linux基础（Shell命令，用户权限管理）_2017-8-23
 链接：http://pan.baidu.com/s/1kUEvQ8B 密码：xefx
 
+Lsn15_阿里云主机配置，shell脚本详解。andfix原理及其手写实现_2017-8-25
+链接：http://pan.baidu.com/s/1jIR51Bo 密码：q8ej
+
+Lsn16_so插件化原理，hook技术实现热修复_2017-8-28
+链接：http://pan.baidu.com/s/1miBS49i 密码：can8
+
+
