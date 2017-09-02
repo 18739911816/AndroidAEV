@@ -46,4 +46,10 @@ Lsn15_阿里云主机配置，shell脚本详解。andfix原理及其手写实现
 Lsn16_so插件化原理，hook技术实现热修复_2017-8-28
 链接：http://pan.baidu.com/s/1miBS49i 密码：can8
 
+Lsn17_andfix修复之art修复_2017-8-30
+链接：http://pan.baidu.com/s/1i47EK65 密码：z5dn
+
+Lsn18_App启动原理和替换系统启动动画_2017-9-1
+链接：http://pan.baidu.com/s/1gfvNSrx 密码：1j29
+
 
