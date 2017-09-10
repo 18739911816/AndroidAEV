@@ -53,3 +53,11 @@ Lsn18_App启动原理和替换系统启动动画_2017-9-1
 链接：http://pan.baidu.com/s/1gfvNSrx 密码：1j29
 
 
+Lsn19_360手机助手卸载监听（AM命令源码分析）_2017-9-4
+链接：http://pan.baidu.com/s/1c11J8La 密码：n2v2
+
+Lsn20_JNI双进程守护_2017-9-6
+链接：http://pan.baidu.com/s/1hs6B2lu 密码：0j3t
+
+Lsn21_系统关键服务是如何进行守护_2017-9-8
+链接：http://pan.baidu.com/s/1eSncLs2 密码：4osy
