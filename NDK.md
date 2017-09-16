@@ -61,3 +61,12 @@ Lsn20_JNI双进程守护_2017-9-6
 
 Lsn21_系统关键服务是如何进行守护_2017-9-8
 链接：http://pan.baidu.com/s/1eSncLs2 密码：4osy
+
+Lsn22_Am命令原理分析和NDK层实现gif图片播放_2017-9-11
+链接：http://pan.baidu.com/s/1dF3udiD 密码：rjyq
+
+Lsn23_MakeFile语法详解_2017-9-13
+链接：http://pan.baidu.com/s/1jIIIWU6 密码：r4eu
+
+Lsn24_Cmake语法详解，FFmpeg编译原理与在AndroidStudio中的配置_2017-9-15
+链接：http://pan.baidu.com/s/1i5ej95r 密码：p67v
