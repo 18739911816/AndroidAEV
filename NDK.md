@@ -70,3 +70,26 @@ Lsn23_MakeFile语法详解_2017-9-13
 
 Lsn24_Cmake语法详解，FFmpeg编译原理与在AndroidStudio中的配置_2017-9-15
 链接：http://pan.baidu.com/s/1i5ej95r 密码：p67v
+
+
+Lsn25_视频解码原理-MP4转YUV420P_2017-9-18
+链接：http://pan.baidu.com/s/1c2tTbiS 密码：7nkl
+
+Lsn26_ffmpeg原生绘制视频与音频播放_2017-9-20
+链接：http://pan.baidu.com/s/1c22aAK4 密码：aeg9
+
+Lsn27_音频播放与jni线程同步原理_2017-9-22
+链接：http://pan.baidu.com/s/1o8E77q6 密码：5by5
+
+Lsn28_OpenSL ES播放音频原理详解_2017-9-25
+链接：http://pan.baidu.com/s/1gfeUeK7 密码：9gpc
+
+Lsn29_音视频同步（上）_2017-9-27
+链接：http://pan.baidu.com/s/1cjOmAy 密码：5peq
+
+Lsn30_音视频同步原理（下）_2017-9-29
+链接：http://pan.baidu.com/s/1qYsPnbQ 密码：93ck
+
+Lsn31_ngnix server搭建_2017-10-9
+链接：http://pan.baidu.com/s/1qXGqfCS 密码：r7av
+
