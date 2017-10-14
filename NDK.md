@@ -93,3 +93,8 @@ Lsn30_音视频同步原理（下）_2017-9-29
 Lsn31_ngnix server搭建_2017-10-9
 链接：http://pan.baidu.com/s/1qXGqfCS 密码：r7av
 
+Lsn32_h264推流_2017-10-11
+链接：http://pan.baidu.com/s/1dFaVtGt 密码：ffoq
+
+Lsn33_x264编码原理与rtmpDump推流流程详解_2017-10-13
+链接：http://pan.baidu.com/s/1geFSBdh 密码：269w
