@@ -98,3 +98,22 @@ Lsn32_h264推流_2017-10-11
 
 Lsn33_x264编码原理与rtmpDump推流流程详解_2017-10-13
 链接：http://pan.baidu.com/s/1geFSBdh 密码：269w
+
+
+Lsn34_RTMP推流详解和音频推流_2017-10-16
+链接：http://pan.baidu.com/s/1bpnkYcB 密码：aqkg
+
+Lsn35_OpenCV人脸识别_2017-10-18
+链接：http://pan.baidu.com/s/1nuZZ4xj 密码：fd2s
+
+Lsn36_IDcard识别_2017-10-20
+链接：http://pan.baidu.com/s/1gfQsDaj 密码：c4zs
+
+Lsn37_OpenCV实现车牌号码识别part1_2017-10-23
+链接：http://pan.baidu.com/s/1nvBT3Ax 密码：yrcn
+
+Lsn38_OpenCV实现车牌号码识别part2_2017-10-25
+链接：http://pan.baidu.com/s/1ge5JTgJ 密码：kseq
+
+Lsn39_QQ视频核心技术之webrtc打造点对点视频通话_2017-10-27
+链接：http://pan.baidu.com/s/1eRYS0gi 密码：j709
