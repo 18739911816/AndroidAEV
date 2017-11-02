@@ -117,3 +117,9 @@ Lsn38_OpenCV实现车牌号码识别part2_2017-10-25
 
 Lsn39_QQ视频核心技术之webrtc打造点对点视频通话_2017-10-27
 链接：http://pan.baidu.com/s/1eRYS0gi 密码：j709
+
+Lsn40_编写WebRtc客户端实现p2p通信（QQ视频核心技术之webrtc打造点对点视频通话）_2017-10-30
+链接：http://pan.baidu.com/s/1eSo18Z4 密码：hlap
+
+Lsn41_Webrtc客户端编写_2017-11-1
+链接：http://pan.baidu.com/s/1miQPc96 密码：hucr
