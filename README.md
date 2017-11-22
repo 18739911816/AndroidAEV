@@ -554,4 +554,12 @@ Lsn7_2017-2-25
 
 2016-10-31 链接: http://pan.baidu.com/s/1i4SwKtf 密码: pj8g  安卓顶尖技术之安卓热修复 Danny
 
+2017-3-14 插件化方式实现手写换肤框架-公开课 David
+链接：http://pan.baidu.com/s/1eSP2Aum 密码：heri
+
+Gradle--多渠道（补课）-2017-7-11
+链接：http://pan.baidu.com/s/1bpkx9JD 密码：6t4t
+
+屏幕适配
+链接：https://pan.baidu.com/s/1nuZvs9r 密码：xr46
 
